@@ -1,4 +1,4 @@
-# py_sinplasma_4k_demo
+# py_sinplasma_4kb_demo
 
 ![sinplasma_demo](https://github.com/user-attachments/assets/f2120978-0783-4b82-9696-11e4c11cd340)
 
